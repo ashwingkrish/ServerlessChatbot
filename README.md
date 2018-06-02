@@ -14,5 +14,8 @@ To implement the cloud functions, just perform the following tasks:
 * First install ```npm``` and ```node``` if you don't have them yet
 * Execute the command: ```npm install -g firebase-tools```
 * Change the current working directly to ServerlessFunction and then login to your account by typing ```firebase login```
-* After you authenticate your account, make sure that all packages are installed. Change directory to functions, and type in ```npm install```
+* Create your own directory
+* Inside your directory, call ```firebase init```: Select functions from the dialog, select project
+* Copy index.js from ServerlessCloudFunctions/functions to functions directory inside your newly created directory
 * Then simply deploy it to the server using ```firebase deploy```
+* If it doesn't work, to check error logs, run the same command with ```firebase deploy --debug```

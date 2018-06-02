@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "454760257643",
+    "firebase_url": "https://chatapplication-48a2a.firebaseio.com",
+    "project_id": "chatapplication-48a2a",
+    "storage_bucket": "chatapplication-48a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454760257643:android:8ad9e5a678cb5fce",
+        "android_client_info": {
+          "package_name": "com.ashwingkrish.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454760257643-50k0th85eul1mcpt86dkbm7n75runccm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashwingkrish.chatapplication",
+            "certificate_hash": "d74fd025bc1bbd36d71a1342b2736d5ac42942e1"
+          }
+        },
+        {
+          "client_id": "454760257643-8au1em77kamsnb3fc9vhpislagt57tp2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "454760257643-8au1em77kamsnb3fc9vhpislagt57tp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJyyrQaDJESpRcjY0ab8J-Amn5z5fxYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454760257643-8au1em77kamsnb3fc9vhpislagt57tp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:454760257643:android:cda9020ee4ab6d09",
+        "android_client_info": {
+          "package_name": "com.ashwingkrish.chattest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "454760257643-vercpe2o3v2lrd44c8hqg4rj1rgh69ci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashwingkrish.chattest",
+            "certificate_hash": "126b7fe3fd628c6baaa6090c64165deaa743fb59"
+          }
+        },
+        {
+          "client_id": "454760257643-8au1em77kamsnb3fc9vhpislagt57tp2.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "454760257643-8au1em77kamsnb3fc9vhpislagt57tp2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRJyyrQaDJESpRcjY0ab8J-Amn5z5fxYk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "454760257643-8au1em77kamsnb3fc9vhpislagt57tp2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

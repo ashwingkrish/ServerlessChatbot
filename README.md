@@ -1,4 +1,6 @@
-# Serverless Chat-room (Youtube link: https://www.youtube.com/watch?v=3kLcbWw7ptk)
+# Serverless Chat-room 
+
+Link to tutorial: https://www.youtube.com/watch?v=3kLcbWw7ptk
 
 A chat room that is built with nothing but Firebase Database, Firebase authentication, Firebase Cloud Functions and Firebase Cloud Messages.
 
